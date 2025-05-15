@@ -1,0 +1,12 @@
+# macOS specific files
+.DS_Store
+.AppleDouble
+.LSOverride
+._*
+.Spotlight-V100
+.Trashes
+.fseventsd
+
+# Other common exclusions
+node_modules/
+*.log
